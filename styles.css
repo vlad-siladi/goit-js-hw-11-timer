@@ -1,0 +1,11 @@
+.timer {
+  display: flex;
+}
+
+.field {
+  margin: 30px;
+}
+
+.value {
+  color: red;
+}
